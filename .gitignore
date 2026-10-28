@@ -4,3 +4,5 @@ __pycache__/
 .env
 data/registered_faces/
 models/
+evaluation/test_images/
+evaluation/results.csv
